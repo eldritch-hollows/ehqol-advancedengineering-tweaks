@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipes>
+    <!-- Traps -->
+    <setattribute xpath="/recipes/recipe[@name='autoTurret']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='bladeTrap']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='dartTrap']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='electricfencepost']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='shotgunTurret']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='speaker']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    
+    <!-- Ammo -->
+    <setattribute xpath="/recipes/recipe[@name='ammoDartIron']" name="tags">perkElectricalEngineering</setattribute>
+    
+    <!-- Electricity items (lights, relays) -->
+    <setattribute xpath="/recipes/recipe[@name='ceilingLight01_player']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='ceilingLight07_player']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='industrialLight01_player']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='industrialLight02_player']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='spotlightPlayer']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    
+    <!-- Powered blocks -->
+    <setattribute xpath="/recipes/recipe[@name='ironGarageDoor_PoweredBlockVariantHelper']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='woodenGarageDoor3x3_PoweredBlockVariantHelper']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='woodenGarageDoor4x3_PoweredBlockVariantHelper']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='woodenGarageDoor5x3_PoweredBlockVariantHelper']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='steelGarageDoor3x3_PoweredBlockVariantHelper']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='steelGarageDoor4x3_PoweredBlockVariantHelper']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='steelGarageDoor5x3_PoweredBlockVariantHelper']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='metalReinforcedWoodDrawBridgePowered']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='vaultHatch01_Powered']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='vaultDoor01_Powered']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='vaultDoor01Double_Powered']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    
+    <!-- Generators, relays, sensors -->
+    <setattribute xpath="/recipes/recipe[@name='generatorbank']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='electrictimerrelay']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='electricwirerelay']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='electricwirerelay']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='motionsensor']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='pressureplate']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='pressureplateLong']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    <setattribute xpath="/recipes/recipe[@name='switch']" name="tags">perkElectricalEngineering,learnable</setattribute>
+    
+</recipes>

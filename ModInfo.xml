@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Name value="EHQOL-AdvancedEngineering-tweaks" />
+  <DisplayName value="EHQOL Advanced Engineering Tweaks UI" />
+  <Description value="Splits traps and electricity from AdvancedEngineering and creates a new perk called Electrical Engineering" />
+  <Author value="TerraTera" />
+  <Version value="0.1.0" />
+  <Website value="https://github.com/Tekunogosu/" />
+</xml>
