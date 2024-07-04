@@ -2,15 +2,15 @@ Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german
 perkElectricalEngineeringDesc,progression,perk Int,,,Master the powers of electricity and electrical traps. 
 perkElectricalEngineeringName,progression,perk Int,,,Electrical Engineering
 perkElectricalEngineeringRank1Desc,progression,perk Int,,,Electrical Hazard
-perkElectricalEngineeringRank1LongDesc,progression,perk Int,,,"You know that electricity exists at least..\nGain 15% XP from electrical trap kills."
+perkElectricalEngineeringRank1LongDesc,progression,perk Int,,,"You know that electricity exists at least..\nGain [40ed49]15% XP[-] from electrical trap kills."
 perkElectricalEngineeringRank2Desc,progression,perk Int,,,Novice
-perkElectricalEngineeringRank2LongDesc,progression,perk Int,,,"Well done! You're still alive AND you figured out how to power things without cooking yourself.\nGain 30% XP from electrical trap kills."
+perkElectricalEngineeringRank2LongDesc,progression,perk Int,,,"Well done! You're still alive AND you figured out how to power things without cooking yourself.\nGain [40ed49]30% XP[-] from electrical trap kills."
 perkElectricalEngineeringRank3Desc,progression,perk Int,,,Grad Student
-perkElectricalEngineeringRank3LongDesc,progression,perk Int,,,"You really know your stuff! At least you think you do.\nGain 45% XP from electrical trap kills.\nElectrical devices require 15% less materials to craft."
+perkElectricalEngineeringRank3LongDesc,progression,perk Int,,,"You really know your stuff! At least you think you do.\nGain [40ed49]45% XP[-] from electrical trap kills.\nElectrical Devices require [40ed49]15% less[-] materials to craft."
 perkElectricalEngineeringRank4Desc,progression,perk Int,,,Electrical Engineer
-perkElectricalEngineeringRank4LongDesc,progression,perk Int,,,"NOW you know your stuff, like really this time.\nGain 60% XP from electrical trap kills.\nElectrical devices require 25% less materials to craft."
+perkElectricalEngineeringRank4LongDesc,progression,perk Int,,,"NOW you know your stuff, like really this time.\nGain [40ed49]60% XP[-] from electrical trap kills.\nElectrical Devices require [40ed49]25% less[-] materials to craft."
 perkElectricalEngineeringRank5Desc,progression,perk Int,,,Electrical Wizard
-perkElectricalEngineeringRank5LongDesc,progression,perk Int,,,"You're pretty sure you can shoot electricity from your fingers.\nGain 75% XP from electrical trap kills.\nElectrical Devices require 35% less materials to craft."
+perkElectricalEngineeringRank5LongDesc,progression,perk Int,,,"You're pretty sure you can shoot electricity from your fingers.\nGain [40ed49]75% XP[-] from electrical trap kills.\nElectrical Devices require [40ed49]35% less[-] materials to craft."
 perkAdvancedEngineeringRank1LongDesc,progression,perk Int,,,"You are now out of the stone age and an apprentice Engineer!."
 perkAdvancedEngineeringRank2LongDesc,progression,perk Int,,,"The long hours tinkering on projects is starting to pay dividends!\nItems craft 20% faster at workbenches and cement mixers."
 perkAdvancedEngineeringRank3LongDesc,progression,perk Int,,,"You really know your way around the workshop and can build about anything you set your mind to!\nAll forge recipes cost 10% less, crafting Forged Steel costs 15% less."

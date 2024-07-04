@@ -3,7 +3,7 @@
   <Name value="EHQOL-AdvancedEngineering-tweaks" />
   <DisplayName value="EHQOL Advanced Engineering Tweaks UI" />
   <Description value="Splits traps and electricity from AdvancedEngineering and creates a new perk called Electrical Engineering" />
-  <Author value="TerraTera" />
+  <Author value="Eldritch Hollows: TerraTera" />
   <Version value="0.1.0" />
-  <Website value="https://github.com/Tekunogosu/" />
+  <Website value="https://github.com/eldritch-hollows/ehqol-advancedengineering-tweaks" />
 </xml>

@@ -41,4 +41,12 @@
     <setattribute xpath="/recipes/recipe[@name='pressureplateLong']" name="tags">perkElectricalEngineering,learnable</setattribute>
     <setattribute xpath="/recipes/recipe[@name='switch']" name="tags">perkElectricalEngineering,learnable</setattribute>
     
+    <!-- Give electrical Engineering bonus for crafting as well -->
+    <setattribute xpath="/recipes/recipe[@name='batterybank']" name="tags">learnable,workbenchCrafting,perkElectricalEngineering</setattribute>
+    <append xpath="/recipes/recipe[@name='batterybank']">
+        <effect_group>
+            <passive_effect name="CraftingIngredientCount" level="0,1,2,3,4" operation="perc_add" value=".56,.56,.56,.34,.15" tags="resourceForgedIron,resourceElectricParts,resourceScrapPolymers"/>
+        </effect_group>
+    </append>
+    
 </recipes>
