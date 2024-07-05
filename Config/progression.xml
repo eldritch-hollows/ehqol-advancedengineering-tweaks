@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <progression>
-    <remove xpath="/progression/perks[@name='perkAdvancedEngineering']/effect_group/passive_effect[@tags='electricianSkill']"/>
-    <remove xpath="/progression/perks[@name='perkAdvancedEngineering']/effect_group/passive_effect[@tags='trapsSkill']"/>
-    <remove xpath="/progression/perks[@name='perkAdvancedEngineering']/effect_group/passive_effect[@tags='electricianCSM']"/>
-    <remove xpath="/progression/perks[@name='perkAdvancedEngineering']/effect_group/passive_effect[@tags='trapsCSM']"/>
-    <remove xpath="/progression/perks[@name='perkAdvancedEngineering']/effect_group/passive_effect[@name='ElectricalTrapXP']"/>
-    <append xpath="/progression/perks">
+    <remove xpath="//perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[@tags='electricianSkill']"/>
+    <remove xpath="//perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[@tags='trapsSkill']"/>
+    <remove xpath="//perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[@tags='electricianCSM']"/>
+    <remove xpath="//perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[@tags='trapsCSM']"/>
+    <remove xpath="//perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[@name='ElectricalTrapXP']"/>
+    <append xpath="//perks">
         <perk name="perkElectricalEngineering" parent="skillIntellectCraftsmanship" name_key="perkElectricalEngineeringName" desc_key="perkElectricalEngineeringDesc" icon="ui_game_symbol_electric_max_power">
             <level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attIntellect" operation="GTE" value="1" desc_key="reqIntellectLevel01"/></level_requirements>
             <level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attIntellect" operation="GTE" value="4" desc_key="reqIntellectLevel04"/></level_requirements>
